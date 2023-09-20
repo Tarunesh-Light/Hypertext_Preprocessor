@@ -12,3 +12,4 @@ phpMyAdmin-Graphical User Interface(GUI) for managing database like MySQL
 
 htdocs-Server document root for PHP
 
+Semicolon is necessary in PHP
