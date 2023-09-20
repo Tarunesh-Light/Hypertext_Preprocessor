@@ -1,0 +1,14 @@
+PHP(Hypertext_Preprocessor):
+
+Server-side interpreted language geared towards web development
+Can be written alongside HTML
+Syntax:- <?php  ?>
+Generally used with MySQL
+
+Wordpress-Content management system for creating websites built using PHP
+Larvel-Web framework for for creating applications and APIs for large size data
+
+phpMyAdmin-Graphical User Interface(GUI) for managing database like MySQL
+
+htdocs-Server document root for PHP
+
