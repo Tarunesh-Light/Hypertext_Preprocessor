@@ -19,3 +19,6 @@ Semicolon is necessary in PHP
 
 "" To print values of variables
 
+date("")  -> Inbulit function to get date,time,month etc
+
+empty(array)   //Returns 1 if array is empty  
