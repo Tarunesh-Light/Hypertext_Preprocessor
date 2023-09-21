@@ -3,6 +3,10 @@
 $num1=[1,2,4,5];
 $num2= array(1,'Tarun','Beet');
 
+if(in_array(4,$num1))
+{
+  echo "TARUNESH";
+}
 print_r($num1);
 print_r($num2);
 var_dump($num1);
@@ -44,5 +48,7 @@ $people = [
   // Accessing values in a multi-dimensional array
   echo $people[0]['first_name'];
   echo $people[2]['email'];
+
+
 
 

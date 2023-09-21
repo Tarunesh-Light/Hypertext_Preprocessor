@@ -1,0 +1,27 @@
+OOPS - Object-Oriented Programming
+
+Procedural Programming - Writing procedures or functions(we procedurally create it) that perform operations on the data whereas
+in Object-Oriented programming we create objects which contains both data and functions 
+
+Class - Contains properties and methods
+
+Access Modifiers/Visibility Modifiers- private,public and protected 
+
+Private - Parameters can be accessed only within the Class
+Protected - Child class inherited from the parent class can have access tho the parameters of the parent class 
+Public - Anyone will have access to the variables
+
+this - Denotes the object which has called the class.Used to allocate values to properties/variables of a 
+class inside methods of a class
+
+Constructor Syntax - public function __construct(){}
+
+this example - $this->name = $name;
+
+require_once 'FILE_PATH';     //To access class in php file from anywhere
+
+Eg:- require_once 'PHP\Hypertext_Preprocessor\OOPS.php 
+Then you can access the class normally
+
+Eg:- class name extends age {}
+name class(child class) get access to all the properties and methods of age class(parent class).
