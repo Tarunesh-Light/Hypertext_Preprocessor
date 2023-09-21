@@ -50,5 +50,5 @@ $people = [
   echo $people[2]['email'];
 
 
-
+?>
 
