@@ -22,3 +22,5 @@ Semicolon is necessary in PHP
 date("")  -> Inbulit function to get date,time,month etc
 
 empty(array)   //Returns 1 if array is empty  
+
+global $x;     //Takes the global x value
